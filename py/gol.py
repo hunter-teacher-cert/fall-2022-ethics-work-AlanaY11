@@ -2,7 +2,7 @@
 # Alana Robinson
 # CSCI 77800 Fall 2022
 # collaborators: Patti Elfers
-# consulted GeekforGeeks and StackOverflow
+# consulted GeekforGeeks and StackOverflow and levelup.gitconnected.com
 
 # create the board
 def firstBoard(rows, cols, array):
