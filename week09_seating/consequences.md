@@ -4,3 +4,5 @@
 ## [Unintended Consequences of Obesity-Targeted Health Policy](https://journalofethics.ama-assn.org/article/unintended-consequences-obesity-targeted-health-policy/2013-04)
 
 ## [The Unanticipated Consequences of Technology](https://www.scu.edu/ethics/focus-areas/technology-ethics/resources/the-unanticipated-consequences-of-technology/)
+
+## [Tech Leaders Can do More to Avoid Unintended Consequences](https://www.wired.com/story/technology-unintended-consequences/)
