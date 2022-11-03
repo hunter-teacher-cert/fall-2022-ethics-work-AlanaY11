@@ -15,3 +15,10 @@ While the customer feedback data adjusts retroactively and would work to improve
 ###### Reference Articles for Equitable Algorithm Seating:
 
 [An efficient airline seat reallocation algorithm considering customer dissatisfaction - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0969699719305368)
+
+[DOT Announces First-Ever Bill of Rights for Passengers with Disabilities, Calls on Airlines to Seat Families Together Free of Charge | US Department of Transportation](https://www.transportation.gov/briefing-room/dot-announces-first-ever-bill-rights-passengers-disabilities-calls-airlines-seat)
+
+[Delta's New Seat Algorithm Makes It Easier For Family Members To Sit Together](https://www.travelinglifestyle.net/deltas-new-seat-algorithm-makes-it-easier-for-family-members-to-sit-together/)
+
+[A Comparison of Algorithms That Estimate the Effectiveness of Commercial Airline Boarding Strategies ](chrome-extension://ieepebpjnkhaiioojkepfniodjmjjihl/data/pdf.js/web/viewer.html?file=https%3A%2F%2Fcommons.erau.edu%2Fcgi%2Fviewcontent.cgi%3Farticle%3D1072%26context%3Dedt)
+[]()
