@@ -1,4 +1,4 @@
-# This code was cited from another repository since we were unable to fully implement our recommended equity strategies, 
+# Team Vanessa (Qianhui) Zou and Alana Robinson: This code was cited from another repository since we were unable to fully implement our recommended equity strategies, 
 # which included Delta's dynamic seating algorithm, seating for people with disability, seating for social distancing for people with anxiety since the
 # pandemic.  However, this code does address groups with children, which was one of our equity issues and that's why we used this code. 
 
