@@ -1,6 +1,6 @@
 # This code was cited from another repository since we were unable to fully implement our recommended equity strategies, 
-which included Delta's dynamic seating algorithm, seating for people with disability, seating for social distancing for people with anxiety since the
-pandemic.  However, this code does address groups with children, which was one of our equity issues and that's why we used this code. 
+# which included Delta's dynamic seating algorithm, seating for people with disability, seating for social distancing for people with anxiety since the
+# pandemic.  However, this code does address groups with children, which was one of our equity issues and that's why we used this code. 
 
 # Here is the link to the repository code https://github.com/hunter-teacher-cert/fall-2020-ethics-work-JimmyDillon-CS/blob/master/05-seatr/seat_algorithm-2.py
 
