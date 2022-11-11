@@ -4,6 +4,9 @@ pandemic.  However, this code does address groups with children, which was one o
 
 # Here is the link to the repository code https://github.com/hunter-teacher-cert/fall-2020-ethics-work-JimmyDillon-CS/blob/master/05-seatr/seat_algorithm-2.py
 
+# Here  is the link to the article about 
+# Delta's Dynamic Seating Algorithm that we tried to implement
+# https://www.travelinglifestyle.net/deltas-new-seat-algorithm-makes-it-easier-for-family-members-to-sit-together/
 
 # -*- coding: utf-8 -*-
 """seat_algorithm.ipynb
