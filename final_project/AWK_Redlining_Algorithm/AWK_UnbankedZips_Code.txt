@@ -1,0 +1,24 @@
+#make a folder in your root called 'awk' and place the file 'zipData.csv' inside of it.
+#open up Terminal program. At the % prompt type...
+
+cd ~
+cd awk
+
+#print everything
+awk '{print $0}' zipData.csv
+#number of fields 
+awk 'BEGIN {FS = ","} NR == 1 {print NF}' zipData.csv 
+#field number legend
+awk 'BEGIN {FS = ","} NR == 1 {for (i = 1;i < NF + 1;i++){ print $i, " = ", i, "\n"}}' zipData.csv 
+#save the legend as a separate file for later recall
+awk 'BEGIN {FS = ","} NR == 1 {for (i = 1;i < NF + 1;i++){ print $i " = " i "\n" > "zipDataTable.txt"}}' zipData.csv
+# run cat command to see our table
+cat zipDataTable.txt
+#find all zips($4) that have an unbanked 2013 rate($7) of over 10% and print the neighborhood name as a neat table using printf
+awk 'BEGIN {FS = ","} $7 > 0.1 {printf("%-40s%6d %4f\n",$1, $4, $7)}' zipData.csv
+#create a list of unbanked zips, removing the first 7 records (those are the header, NYC total, and 5 borough's totals NR > 7)
+awk 'BEGIN {FS = ","} $7 > 0.1 && NR > 7 {print $4 > "feeZips.txt"}' zipData.csv
+#check our file and pipe it through sort to quickly see if my neighborhood was excluded
+cat feeZips.txt |sort 
+
+#zipData.csv will be used in my Java Bank program to digitally redline customers by charging them a fee for their account
