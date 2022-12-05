@@ -21,4 +21,4 @@ awk 'BEGIN {FS = ","} $7 > 0.1 && NR > 7 {print $4 > "feeZips.txt"}' zipData.csv
 #check our file and pipe it through sort to quickly see if my neighborhood was excluded
 cat feeZips.txt |sort 
 
-#zipData.csv will be used in my Java Bank program to digitally redline customers by charging them a fee for their account
+#feeZips.txt will be used in our Java Bank program to digitally redline customers by charging them a fee for their account
